@@ -1,84 +1,9 @@
-body {
-    background-image: url("../images/pinkdust.png");
-    margin: 0px;
-}
-
-nav {
-    background-color: white;
-    width: 100%;
-}
-
-h2 {
-    color: #4aaaa5;
-    text-align: left;
-}
-
-.container {
-    margin: 0 auto;
-    width: 960px;
-    padding: 0px;
-    background-color: #ffffff;
-}
-
-#box1 {
-    width: 100%;
-    height: 75px;
-    margin: 0px;
-}
-
-.name {
+.navbar-brand {
+    color: green;
     background-color: #4aaaa5;
-    width: 300px;
-    height: 75px;
-    line-height: 100px;
-    color: #ffffff;
-    text-align: center;
-    padding: 0px;
-    margin: 0px, 100px, 0px, 250px;
-    font-family: 'Georgia', Times, Times New Roman, serif;
 }
 
-a {
+.navbar-nav {
+    color: red;
     float: right;
-    padding-right: 10px;
-    color: black;
-    width: 75px;
-    height: 75px;
-    line-height: 75px;
-    text-align: center;
-    background-color: #ffffff;
-    color: #777777;
-}
-
-img {
-    width: 250px;
-    height: 250px;
-    float: left;
-    margin-left: auto;
-    margin-right: auto;
-}  
-
-.paragraphs {
-    float: left;
-    margin: 0px;
-    background-color: #ffffff;
-    width: 650px;
-    line-height: 200%;
-    color: #777777;
-    border-top: #dddddd;
-    padding-left: 20px;
-}
-
-.clearfix {
-    clear:both;
-}
-
-footer {
-    background-color: #666666;
-    position: fixed;
-    bottom: 0px;
-    width: 100%;
-    text-align: center;
-    font-family: 'Ariel', 'Helvetica Neue','Helvetica','sans-serif';
-    border-top: 8px solid #4aaaa5;
 }

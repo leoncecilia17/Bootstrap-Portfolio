@@ -136,8 +136,9 @@ h3, h2 {
   float: left;
   width: 274px;
   margin: 20px 0 25px;
-  overflow: auto;
+  overflow: hidden;
 }
+
 
 .life:nth-child(even) {
   margin-right: 40px;
